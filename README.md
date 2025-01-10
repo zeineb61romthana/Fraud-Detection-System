@@ -1,7 +1,6 @@
 # Fraud Detection System
 
 A supervised learning-based fraud detection system that helps identify potentially fraudulent transactions.
-
 ![Alt Text](Untitled_design.gif)
 
 ## 🔑 Key Features
