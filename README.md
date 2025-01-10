@@ -2,7 +2,7 @@
 
 A supervised learning-based fraud detection system that helps identify potentially fraudulent transactions.
 
-![Alt Text](Untitled design.gif)
+![Alt Text](Untitled_design.gif)
 
 ## 🔑 Key Features
 - Real-time fraud detection through an interactive Streamlit web interface
